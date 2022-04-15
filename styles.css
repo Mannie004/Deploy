@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(123, 123, 161);
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+div.h1 {
+  justify-content: center;
+  margin-left: 0;
+  margin-right: 0;
+}
