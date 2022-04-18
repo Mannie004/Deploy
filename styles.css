@@ -1,5 +1,4 @@
 body {
-  background-color: rgb(123, 123, 161);
   background-image: url("https://wallpapercave.com/wp/wp1827206.jpg");
   background-size: 100%;
   background-repeat: repeat-y;
@@ -47,7 +46,7 @@ p {
   border: 2px solid black;
   background-color: rgb(53, 53, 99);
   display: flex;
-  margin-top: -5%;
+  margin-top: -3%;
   justify-content: space-evenly;
   margin-left: auto;
   margin-right: auto;
@@ -99,7 +98,7 @@ form.example::after {
 }
 
 hr {
-  height: 1px;
+  height: 2px;
   background-color: red;
   border-color: black;
 }
@@ -162,12 +161,15 @@ a:active {
   text-align: center;
   display: block;
   font-size: 14px;
-  margin-top: -8%;
+  margin-top: -5%;
 }
 .footer_icons {
-  height: 80px;
-  width: 80px;
+  width: 50px;
+  height: 50px;
+  margin: 0 5px;
+}
+#icons {
   display: flex;
-  object-fit: contain;
-  justify-content: space-between;
+  width: 100px;
+  margin: 0 -5px;
 }
