@@ -104,11 +104,11 @@ hr {
 }
 
 a:visited {
-  color: blue;
+  color: white;
 }
 
 a:hover {
-  color: brown;
+  color: rgb(196, 65, 167);
 }
 
 a:active {
